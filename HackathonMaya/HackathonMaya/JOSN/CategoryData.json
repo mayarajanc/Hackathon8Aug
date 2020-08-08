@@ -1,0 +1,25 @@
+{
+    "categories" : [
+        {
+            "name": "Men",
+            "categoryID": 1
+            
+        },
+        {
+            "name": "Women",
+            "categoryID": 2
+            
+        },
+        {
+            "name": "Kids",
+            "categoryID": 3
+            
+        },
+        {
+            "name": "Electronics",
+            "categoryID": 4
+            
+        }
+        
+    ]
+}
